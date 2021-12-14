@@ -1,0 +1,8 @@
+{
+"title":"list",
+"attractionInformation" = [
+{"name":"TestOne","index":"IndexTestOne"}
+{"name":"TestTwo","index":"IndexTestTwo"}
+{"name":"TestThree","index":"IndexTestThree"}
+]
+}
